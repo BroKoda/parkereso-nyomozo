@@ -1,0 +1,1 @@
+@use '../src/variables';.copyright {  background: variables.$gradient;  p {    font-size: 0.7em;    margin: 9px;    text-align: center;    color: variables.$backgroundColor;    a {      color: variables.$backgroundColor;    }  }}
