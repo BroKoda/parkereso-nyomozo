@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import 'animate.css';
 import WOW from 'wow.js'
 import emailjs from '@emailjs/browser'
